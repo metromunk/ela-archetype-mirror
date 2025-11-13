@@ -1,0 +1,305 @@
+
+{
+  "testQuestions": [
+    {
+      "id": "q1",
+      "question": "When things get emotionally intense, what do you instinctively do?",
+      "options": [
+        { "id": "q1o1", "label": "Soften, make peace, keep everyone calm.", "mapsTo": ["pleaser", "niceone"] },
+        { "id": "q1o2", "label": "Take charge and try to control the situation.", "mapsTo": ["achiever", "critic"] },
+        { "id": "q1o3", "label": "Detach and observe from a distance.", "mapsTo": ["intellectual", "lonewolf"] },
+        { "id": "q1o4", "label": "React with intensity or push back.", "mapsTo": ["rebel", "joker"] }
+      ]
+    },
+    {
+      "id": "q2",
+      "question": "What role did you unconsciously take up in your family?",
+      "options": [
+        { "id": "q2o1", "label": "The peacekeeper or helper.", "mapsTo": ["pleaser", "martyr"] },
+        { "id": "q2o2", "label": "The achiever or responsible one.", "mapsTo": ["achiever", "perfectionist"] },
+        { "id": "q2o3", "label": "The quiet, invisible, or thinking one.", "mapsTo": ["intellectual", "lonewolf"] },
+        { "id": "q2o4", "label": "The rebel or the one who disrupted patterns.", "mapsTo": ["rebel", "joker"] }
+      ]
+    },
+    {
+      "id": "q3",
+      "question": "What scares you more?",
+      "options": [
+        { "id": "q3o1", "label": "Someone being disappointed in me.", "mapsTo": ["pleaser"] },
+        { "id": "q3o2", "label": "Failing or falling behind.", "mapsTo": ["achiever"] },
+        { "id": "q3o3", "label": "Feeling overwhelmed by emotions.", "mapsTo": ["intellectual"] },
+        { "id": "q3o4", "label": "Being controlled or restricted.", "mapsTo": ["rebel"] }
+      ]
+    },
+    {
+      "id": "q4",
+      "question": "Which statement feels most like you in relationships?",
+      "options": [
+        { "id": "q4o1", "label": "I try to be what the other person needs.", "mapsTo": ["shapeshifter", "pleaser"] },
+        { "id": "q4o2", "label": "I give a lot more than I receive.", "mapsTo": ["martyr", "savior"] },
+        { "id": "q4o3", "label": "I value independence and space.", "mapsTo": ["lonewolf"] },
+        { "id": "q4o4", "label": "I want depth and intensity.", "mapsTo": ["rebel", "seducer"] }
+      ]
+    },
+    {
+      "id": "q5",
+      "question": "How do you cope with stress?",
+      "options": [
+        { "id": "q5o1", "label": "Make others happy so I can feel okay.", "mapsTo": ["pleaser"] },
+        { "id": "q5o2", "label": "Work harder, push through, get things done.", "mapsTo": ["achiever"] },
+        { "id": "q5o3", "label": "Withdraw to think or figure things out alone.", "mapsTo": ["intellectual", "lonewolf"] },
+        { "id": "q5o4", "label": "Use humour, charm, or distraction.", "mapsTo": ["joker", "seducer"] }
+      ]
+    },
+    {
+      "id": "q6",
+      "question": "What do you struggle with the most internally?",
+      "options": [
+        { "id": "q6o1", "label": "Saying no or disappointing people.", "mapsTo": ["pleaser", "niceone"] },
+        { "id": "q6o2", "label": "Accepting imperfection or slowing down.", "mapsTo": ["achiever", "perfectionist"] },
+        { "id": "q6o3", "label": "Expressing how I feel.", "mapsTo": ["intellectual", "lonewolf"] },
+        { "id": "q6o4", "label": "Feeling restrained or bored.", "mapsTo": ["rebel", "performer"] }
+      ]
+    },
+    {
+      "id": "q7",
+      "question": "What do you value most in yourself (even if others don’t see it)?",
+      "options": [
+        { "id": "q7o1", "label": "My kindness and compassion.", "mapsTo": ["pleaser", "savior"] },
+        { "id": "q7o2", "label": "My determination and resilience.", "mapsTo": ["achiever", "critic"] },
+        { "id": "q7o3", "label": "My insight and ability to think clearly.", "mapsTo": ["intellectual"] },
+        { "id": "q7o4", "label": "My creativity, charm, or expressiveness.", "mapsTo": ["performer", "seducer"] }
+      ]
+    },
+    {
+      "id": "q8",
+      "question": "When you are hurt, what do you do?",
+      "options": [
+        { "id": "q8o1", "label": "Try to fix it or make peace quickly.", "mapsTo": ["pleaser", "niceone"] },
+        { "id": "q8o2", "label": "Try to take control or achieve more.", "mapsTo": ["achiever", "critic"] },
+        { "id": "q8o3", "label": "Retreat into solitude.", "mapsTo": ["lonewolf"] },
+        { "id": "q8o4", "label": "Act out, distract, or rebel.", "mapsTo": ["rebel", "joker"] }
+      ]
+    },
+    {
+      "id": "q9",
+      "question": "Which describes your emotional world?",
+      "options": [
+        { "id": "q9o1", "label": "I feel others’ emotions more than my own.", "mapsTo": ["pleaser", "martyr"] },
+        { "id": "q9o2", "label": "I feel too much responsibility.", "mapsTo": ["savior", "perfectionist"] },
+        { "id": "q9o3", "label": "I feel safer in logic than emotion.", "mapsTo": ["intellectual"] },
+        { "id": "q9o4", "label": "I feel intense, expressive, or unpredictable.", "mapsTo": ["performer", "rebel"] }
+      ]
+    },
+    {
+      "id": "q10",
+      "question": "Which pattern shows up in your friendships?",
+      "options": [
+        { "id": "q10o1", "label": "I often end up caretaking.", "mapsTo": ["martyr", "savior"] },
+        { "id": "q10o2", "label": "I motivate others or lead naturally.", "mapsTo": ["achiever", "critic"] },
+        { "id": "q10o3", "label": "I stay unseen or private.", "mapsTo": ["lonewolf", "intellectual"] },
+        { "id": "q10o4", "label": "I bring humour or intensity.", "mapsTo": ["joker", "performer"] }
+      ]
+    },
+    {
+      "id": "q11",
+      "question": "What do you crave the most, deep down?",
+      "options": [
+        { "id": "q11o1", "label": "Love and acceptance.", "mapsTo": ["pleaser", "niceone"] },
+        { "id": "q11o2", "label": "Respect and achievement.", "mapsTo": ["achiever", "perfectionist"] },
+        { "id": "q11o3", "label": "Understanding and clarity.", "mapsTo": ["intellectual"] },
+        { "id": "q11o4", "label": "Freedom and intensity.", "mapsTo": ["rebel", "seducer"] }
+      ]
+    },
+    {
+      "id": "q12",
+      "question": "How do you respond to emotional needs from others?",
+      "options": [
+        { "id": "q12o1", "label": "I give more than I have.", "mapsTo": ["pleaser", "martyr"] },
+        { "id": "q12o2", "label": "I try to fix them.", "mapsTo": ["achiever", "savior"] },
+        { "id": "q12o3", "label": "It overwhelms me.", "mapsTo": ["intellectual", "lonewolf"] },
+        { "id": "q12o4", "label": "I distract or lighten the mood.", "mapsTo": ["joker", "performer"] }
+      ]
+    },
+    {
+      "id": "q13",
+      "question": "How do you respond to conflict?",
+      "options": [
+        { "id": "q13o1", "label": "I avoid it.", "mapsTo": ["niceone", "pleaser"] },
+        { "id": "q13o2", "label": "I confront it head-on.", "mapsTo": ["achiever", "critic"] },
+        { "id": "q13o3", "label": "I withdraw.", "mapsTo": ["lonewolf"] },
+        { "id": "q13o4", "label": "I provoke or disrupt.", "mapsTo": ["rebel", "joker"] }
+      ]
+    },
+    {
+      "id": "q14",
+      "question": "What is your hidden fear?",
+      "options": [
+        { "id": "q14o1", "label": "Being unwanted.", "mapsTo": ["pleaser"] },
+        { "id": "q14o2", "label": "Being inadequate.", "mapsTo": ["achiever"] },
+        { "id": "q14o3", "label": "Being emotionally exposed.", "mapsTo": ["intellectual", "lonewolf"] },
+        { "id": "q14o4", "label": "Being restricted.", "mapsTo": ["rebel"] }
+      ]
+    },
+    {
+      "id": "q15",
+      "question": "What energy do others rely on you for?",
+      "options": [
+        { "id": "q15o1", "label": "Support and warmth.", "mapsTo": ["pleaser", "martyr"] },
+        { "id": "q15o2", "label": "Direction or solutions.", "mapsTo": ["achiever", "critic"] },
+        { "id": "q15o3", "label": "Reflection and perspective.", "mapsTo": ["intellectual"] },
+        { "id": "q15o4", "label": "Humour or intensity.", "mapsTo": ["joker", "performer"] }
+      ]
+    },
+    {
+      "id": "q16",
+      "question": "How do you handle responsibility?",
+      "options": [
+        { "id": "q16o1", "label": "I over-give and take it all on.", "mapsTo": ["martyr", "savior"] },
+        { "id": "q16o2", "label": "I take charge quickly.", "mapsTo": ["achiever", "critic"] },
+        { "id": "q16o3", "label": "I avoid commitments.", "mapsTo": ["rebel", "lonewolf"] },
+        { "id": "q16o4", "label": "I adapt depending on what others need.", "mapsTo": ["shapeshifter", "pleaser"] }
+      ]
+    },
+    {
+      "id": "q17",
+      "question": "Which describes your relationship with your emotions?",
+      "options": [
+        { "id": "q17o1", "label": "I absorb others’ emotions.", "mapsTo": ["pleaser", "martyr"] },
+        { "id": "q17o2", "label": "I feel pressure to stay strong.", "mapsTo": ["achiever"] },
+        { "id": "q17o3", "label": "I avoid or intellectualize them.", "mapsTo": ["intellectual", "lonewolf"] },
+        { "id": "q17o4", "label": "I express them intensely.", "mapsTo": ["performer", "rebel"] }
+      ]
+    },
+    {
+      "id": "q18",
+      "question": "What is your biggest relational wound?",
+      "options": [
+        { "id": "q18o1", "label": "Fear of rejection.", "mapsTo": ["pleaser", "seducer"] },
+        { "id": "q18o2", "label": "Fear of not being enough.", "mapsTo": ["achiever", "perfectionist"] },
+        { "id": "q18o3", "label": "Fear of engulfment.", "mapsTo": ["lonewolf", "intellectual"] },
+        { "id": "q18o4", "label": "Fear of confinement.", "mapsTo": ["rebel"] }
+      ]
+    },
+    {
+      "id": "q19",
+      "question": "What motivates your decisions the most?",
+      "options": [
+        { "id": "q19o1", "label": "Keeping peace or harmony.", "mapsTo": ["niceone", "pleaser"] },
+        { "id": "q19o2", "label": "Achieving goals.", "mapsTo": ["achiever", "critic"] },
+        { "id": "q19o3", "label": "Logic and clarity.", "mapsTo": ["intellectual"] },
+        { "id": "q19o4", "label": "Authenticity and freedom.", "mapsTo": ["rebel"] }
+      ]
+    },
+    {
+      "id": "q20",
+      "question": "How do you feel when someone is upset with you?",
+      "options": [
+        { "id": "q20o1", "label": "Terrified of losing closeness.", "mapsTo": ["pleaser"] },
+        { "id": "q20o2", "label": "Pressured to fix things.", "mapsTo": ["achiever", "savior"] },
+        { "id": "q20o3", "label": "Confused and overwhelmed.", "mapsTo": ["intellectual"] },
+        { "id": "q20o4", "label": "Defensive or reactive.", "mapsTo": ["rebel", "joker"] }
+      ]
+    },
+    {
+      "id": "q21",
+      "question": "How do you cope with vulnerability?",
+      "options": [
+        { "id": "q21o1", "label": "Over-accommodate or caretake.", "mapsTo": ["pleaser", "martyr"] },
+        { "id": "q21o2", "label": "Try to appear strong or capable.", "mapsTo": ["achiever", "perfectionist"] },
+        { "id": "q21o3", "label": "Retreat into thinking or distance.", "mapsTo": ["intellectual", "lonewolf"] },
+        { "id": "q21o4", "label": "Perform or distract.", "mapsTo": ["performer", "joker"] }
+      ]
+    },
+    {
+      "id": "q22",
+      "question": "What kind of validation do you unconsciously seek?",
+      "options": [
+        { "id": "q22o1", "label": "Being liked.", "mapsTo": ["pleaser", "niceone"] },
+        { "id": "q22o2", "label": "Being respected.", "mapsTo": ["achiever", "critic"] },
+        { "id": "q22o3", "label": "Being understood.", "mapsTo": ["intellectual"] },
+        { "id": "q22o4", "label": "Being desired or admired.", "mapsTo": ["seducer", "performer"] }
+      ]
+    },
+    {
+      "id": "q23",
+      "question": "What’s your relationship to freedom?",
+      "options": [
+        { "id": "q23o1", "label": "I avoid conflict to maintain peace.", "mapsTo": ["niceone", "pleaser"] },
+        { "id": "q23o2", "label": "I seek success to feel safe.", "mapsTo": ["achiever"] },
+        { "id": "q23o3", "label": "I need space to recharge.", "mapsTo": ["lonewolf"] },
+        { "id": "q23o4", "label": "I rebel against pressure or expectations.", "mapsTo": ["rebel"] }
+      ]
+    },
+    {
+      "id": "q24",
+      "question": "What describes your social presence?",
+      "options": [
+        { "id": "q24o1", "label": "Warm, gentle, approachable.", "mapsTo": ["pleaser", "niceone"] },
+        { "id": "q24o2", "label": "Competent and structured.", "mapsTo": ["achiever", "critic"] },
+        { "id": "q24o3", "label": "Quiet and observant.", "mapsTo": ["intellectual", "lonewolf"] },
+        { "id": "q24o4", "label": "Expressive or magnetic.", "mapsTo": ["performer", "seducer"] }
+      ]
+    },
+    {
+      "id": "q25",
+      "question": "What do you hide most?",
+      "options": [
+        { "id": "q25o1", "label": "My needs.", "mapsTo": ["pleaser", "niceone"] },
+        { "id": "q25o2", "label": "My weaknesses.", "mapsTo": ["achiever", "perfectionist"] },
+        { "id": "q25o3", "label": "My emotions.", "mapsTo": ["intellectual", "lonewolf"] },
+        { "id": "q25o4", "label": "My vulnerabilities.", "mapsTo": ["rebel", "joker"] }
+      ]
+    },
+    {
+      "id": "q26",
+      "question": "Which emotional struggle fits you most?",
+      "options": [
+        { "id": "q26o1", "label": "Over-attuning to others.", "mapsTo": ["pleaser", "martyr"] },
+        { "id": "q26o2", "label": "Harsh self-judgment.", "mapsTo": ["critic", "perfectionist"] },
+        { "id": "q26o3", "label": "Emotional suppression.", "mapsTo": ["intellectual", "lonewolf"] },
+        { "id": "q26o4", "label": "Emotional intensity.", "mapsTo": ["performer", "rebel"] }
+      ]
+    },
+    {
+      "id": "q27",
+      "question": "Which pattern appears in your romantic life?",
+      "options": [
+        { "id": "q27o1", "label": "I lose myself in the other person.", "mapsTo": ["pleaser", "shapeshifter"] },
+        { "id": "q27o2", "label": "I try to fix or lead the relationship.", "mapsTo": ["achiever", "savior"] },
+        { "id": "q27o3", "label": "I pull away when things get close.", "mapsTo": ["lonewolf"] },
+        { "id": "q27o4", "label": "I crave intensity more than stability.", "mapsTo": ["rebel", "seducer"] }
+      ]
+    },
+    {
+      "id": "q28",
+      "question": "What kind of pain do you avoid the most?",
+      "options": [
+        { "id": "q28o1", "label": "Disappointing others.", "mapsTo": ["pleaser"] },
+        { "id": "q28o2", "label": "Feeling unworthy.", "mapsTo": ["achiever", "perfectionist"] },
+        { "id": "q28o3", "label": "Feeling consumed or controlled.", "mapsTo": ["lonewolf", "intellectual"] },
+        { "id": "q28o4", "label": "Feeling limited or bored.", "mapsTo": ["rebel"] }
+      ]
+    },
+    {
+      "id": "q29",
+      "question": "What do people misunderstand about you?",
+      "options": [
+        { "id": "q29o1", "label": "They think I'm weak or passive.", "mapsTo": ["pleaser", "niceone"] },
+        { "id": "q29o2", "label": "They think I'm cold or demanding.", "mapsTo": ["achiever", "critic"] },
+        { "id": "q29o3", "label": "They think I'm distant or unemotional.", "mapsTo": ["lonewolf", "intellectual"] },
+        { "id": "q29o4", "label": "They think I'm dramatic or chaotic.", "mapsTo": ["performer", "rebel"] }
+      ]
+    },
+    {
+      "id": "q30",
+      "question": "What is the deepest truth about you?",
+      "options": [
+        { "id": "q30o1", "label": "I care deeply.", "mapsTo": ["pleaser", "savior"] },
+        { "id": "q30o2", "label": "I want to be enough.", "mapsTo": ["achiever", "perfectionist"] },
+        { "id": "q30o3", "label": "I feel safer alone.", "mapsTo": ["lonewolf", "intellectual"] },
+        { "id": "q30o4", "label": "I long for freedom.", "mapsTo": ["rebel", "performer"] }
+      ]
+    }
+  ]
+}

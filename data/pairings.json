@@ -1,0 +1,134 @@
+
+{
+  "pairingTemplate": {
+    "attraction": [
+      "{{archetypeA}} is drawn to {{archetypeB}} because they carry the energy of {{B_sacred}} which complements {{A_sacred}}.",
+      "They activate each other's unhealed childhood longing for {{A_wound}} and {{B_wound}}."
+    ],
+    "shadowDance": [
+      "{{archetypeA}} goes into their mask pattern of {{A_theme}} which pushes {{archetypeB}} into their survival strategy of {{B_theme}}.",
+      "Both re-enact unresolved emotional imprints of {{A_belief}} and {{B_belief}}."
+    ],
+    "triggerLoop": [
+      "{{archetypeA}} triggers {{archetypeB}} by {{A_trigger}} which leads {{archetypeB}} to {{B_trigger}}, repeating their shared loop.",
+      "The more {{archetypeA}} does {{A_shadow}}, the more {{archetypeB}} responds with {{B_shadow}}."
+    ],
+    "lightPotential": [
+      "{{archetypeA}} teaches {{archetypeB}} {{A_lightGift}}.",
+      "{{archetypeB}} teaches {{archetypeA}} {{B_lightGift}}.",
+      "Together they can evolve into a balanced expression of {{A_sacred}} + {{B_sacred}}."
+    ],
+    "integrationPractices": [
+      "Practice slowing down before reacting.",
+      "Name the wound behind the reaction.",
+      "Use somatic regulation (3 breaths, touch chest or belly).",
+      "State needs vulnerably instead of through the mask."
+    ]
+  },
+  "primaryPairings": [
+    {
+      "pairId": "pleaser+achiever", "archetypeA": "pleaser", "archetypeB": "achiever",
+      "attraction": ["Pleaser is drawn to Achiever’s strength, direction, and competence.", "Achiever is drawn to Pleaser’s softness, affection, and acceptance."],
+      "shadowDance": ["Pleaser over-gives to keep emotional closeness.", "Achiever over-works to maintain worthiness.", "Both reinforce abandonment and inadequacy wounds."],
+      "triggerLoop": ["Pleaser seeks reassurance → Achiever distances → Pleaser panics → Achiever withdraws."],
+      "lightPotential": ["Pleaser teaches the Warrior heart.", "Achiever teaches the Lover boundaries.", "Together they become tenderness + direction."],
+      "integrationPractices": ["Pleaser: speak one emotional truth a day.", "Achiever: practice soft presence instead of fixing.", "Together: weekly check-in without problem-solving."]
+    },
+    {
+      "pairId": "rebel+pleaser", "archetypeA": "rebel", "archetypeB": "pleaser",
+      "attraction": ["Rebel feels emotionally accepted by Pleaser's warmth.", "Pleaser feels awakened by Rebel's fire and authenticity."],
+      "shadowDance": ["Pleaser becomes clingy.", "Rebel becomes avoidant.", "Both reenact childhood dynamics of smothering vs freedom."],
+      "triggerLoop": ["Pleaser worries → Rebel withdraws → Pleaser pursues → Rebel resists more."],
+      "lightPotential": ["Pleaser teaches Rebel emotional safety.", "Rebel teaches Pleaser truth without fear."],
+      "integrationPractices": ["Pleaser: hold yourself during Rebel’s distance.", "Rebel: reassure without compromising freedom."]
+    },
+    {
+      "pairId": "achiever+intellectual", "archetypeA": "achiever", "archetypeB": "intellectual",
+      "attraction": ["Achiever admires Intellectual’s clarity.", "Intellectual admires Achiever’s drive."],
+      "shadowDance": ["Achiever demands action.", "Intellectual delays with analysis."],
+      "triggerLoop": ["Achiever pushes → Intellectual retreats into thought → Achiever pushes harder."],
+      "lightPotential": ["They combine strategy (Sage) + execution (Warrior)."],
+      "integrationPractices": ["Achiever: slow down.", "Intellectual: share emotions before analysis."]
+    },
+    {
+      "pairId": "performer+critic", "archetypeA": "performer", "archetypeB": "critic",
+      "attraction": ["Performer brings joy and expression.", "Critic brings order and integrity."],
+      "shadowDance": ["Performer feels judged.", "Critic feels manipulated."],
+      "triggerLoop": ["Performer exaggerates → Critic clamps down → Performer escapes emotionally."],
+      "lightPotential": ["Critic grounds Performer.", "Performer softens Critic."],
+      "integrationPractices": ["Performer: express truth, not performance.", "Critic: validate before correcting."]
+    },
+    {
+      "pairId": "lonewolf+pleaser", "archetypeA": "lonewolf", "archetypeB": "pleaser",
+      "attraction": ["Pleaser melts Lone Wolf’s walls.", "Lone Wolf offers protection and steadiness."],
+      "shadowDance": ["Pleaser pursues connection.", "Lone Wolf withdraws for safety."],
+      "triggerLoop": ["Pursue → Withdraw → Panic → Retreat."],
+      "lightPotential": ["Lone Wolf learns intimacy.", "Pleaser learns boundaries and self-worth."],
+      "integrationPractices": ["Pleaser: give space without collapsing.", "Lone Wolf: verbal reassurance."]
+    },
+    {
+      "pairId": "martyr+achiever", "archetypeA": "martyr", "archetypeB": "achiever",
+      "attraction": ["Martyr supports Achiever’s goals.", "Achiever admires Martyr’s loyalty."],
+      "shadowDance": ["Martyr over-functions.", "Achiever takes without noticing."],
+      "triggerLoop": ["Martyr sacrifices → Achiever expects → Martyr resents → Achiever pushes harder."],
+      "lightPotential": ["Martyr learns self-care.", "Achiever learns compassion."],
+      "integrationPractices": ["Martyr: say 'no' gently.", "Achiever: express gratitude."]
+    },
+    {
+      "pairId": "shapeshifter+rebel", "archetypeA": "shapeshifter", "archetypeB": "rebel",
+      "attraction": ["Shapeshifter loves Rebel’s authenticity.", "Rebel loves Shapeshifter’s adaptability."],
+      "shadowDance": ["Shapeshifter hides truth.", "Rebel demands intensity."],
+      "triggerLoop": ["Rebel pushes → Shapeshifter adapts → Rebel senses inauthenticity."],
+      "lightPotential": ["Shapeshifter learns stable identity.", "Rebel learns nuance."],
+      "integrationPractices": ["Shapeshifter: state preferences.", "Rebel: soften intensity."]
+    },
+    {
+      "pairId": "critic+pleaser", "archetypeA": "critic", "archetypeB": "pleaser",
+      "attraction": ["Critic appreciates Pleaser’s kindness.", "Pleaser admires Critic’s clarity."],
+      "shadowDance": ["Pleaser collapses under criticism.", "Critic becomes hyper-vigilant."],
+      "triggerLoop": ["Critic corrects → Pleaser panics → Critic feels unseen → Critic sharpens tone."],
+      "lightPotential": ["Critic can learn gentleness.", "Pleaser can learn assertive honesty."],
+      "integrationPractices": ["Critic: practice softening your tone.", "Pleaser: speak needs early."]
+    },
+    {
+      "pairId": "intellectual+niceone", "archetypeA": "intellectual", "archetypeB": "niceone",
+      "attraction": ["Nice One calms Intellectual’s intensity.", "Intellectual gives Nice One structure and certainty."],
+      "shadowDance": ["Intellectual overanalyzes.", "Nice One suppresses truth."],
+      "triggerLoop": ["Intellectual explains → Nice One avoids conflict → Intellectual escalates logic."],
+      "lightPotential": ["They become clarity + harmony."],
+      "integrationPractices": ["Nice One: state emotions.", "Intellectual: ask open-ended questions."]
+    },
+    {
+      "pairId": "perfectionist+performer", "archetypeA": "perfectionist", "archetypeB": "performer",
+      "attraction": ["Perfectionist admires Performer’s courage.", "Performer admires Perfectionist’s excellence."],
+      "shadowDance": ["Perfectionist becomes rigid.", "Performer becomes dramatic."],
+      "triggerLoop": ["Performer improvises → Perfectionist tightens control."],
+      "lightPotential": ["Balance of structure + creativity."],
+      "integrationPractices": ["Perfectionist: allow improvisation.", "Performer: follow through on commitments."]
+    },
+    {
+      "pairId": "joker+critic", "archetypeA": "joker", "archetypeB": "critic",
+      "attraction": ["Joker brings levity.", "Critic brings depth and seriousness."],
+      "shadowDance": ["Critic feels mocked.", "Joker feels shamed."],
+      "triggerLoop": ["Critic corrects → Joker jokes → Critic intensifies."],
+      "lightPotential": ["Joy + integrity working together."],
+      "integrationPractices": ["Joker: use fewer deflections.", "Critic: accept playfulness."]
+    },
+    {
+      "pairId": "seducer+rebel", "archetypeA": "seducer", "archetypeB": "rebel",
+      "attraction": ["Seducer loves Rebel’s intensity.", "Rebel loves Seducer’s magnetism."],
+      "shadowDance": ["Seducer avoids vulnerability.", "Rebel avoids emotional depth."],
+      "triggerLoop": ["Intensity → avoidance → more intensity."],
+      "lightPotential": ["Embodied sensuality + truth."],
+      "integrationPractices": ["Seducer: reveal inner feelings.", "Rebel: stabilize before escalating."]
+    },
+    {
+      "pairId": "savior+martyr", "archetypeA": "savior", "archetypeB": "martyr",
+      "attraction": ["Healer admires Healer.", "Shared compassion and depth."],
+      "shadowDance": ["Both over-function.", "Both absorb too much emotional weight."],
+      "triggerLoop": ["One rescues → other over-rescues → collapse."],
+      "lightPotential": ["Deep sacred intimacy when regulated."],
+      "integrationPractices": ["Both: release responsibility.", "Practice giving without overgiving."]
+    }
+  ]
+}

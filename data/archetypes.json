@@ -1,0 +1,285 @@
+
+{
+  "archetypes": [
+    {
+      "id": "pleaser",
+      "maskName": "The Pleaser",
+      "sacredArchetype": "The Lover",
+      "wound": "Fear of abandonment, fear of losing connection",
+      "theme": "Approval = safety",
+      "limitingBeliefs": [
+        "If I don’t make others happy, I’ll be left",
+        "My needs push people away",
+        "Love must be earned"
+      ],
+      "somaticZones": ["Chest", "Heart", "Throat"],
+      "chakra": ["Heart"],
+      "lightGifts": ["Warmth", "Compassion", "Emotional attunement"],
+      "integrationPath": [
+        "Speak small truths",
+        "Hold one boundary a day",
+        "Practice self-soothing instead of people-pleasing"
+      ]
+    },
+    {
+      "id": "achiever",
+      "maskName": "The Achiever / Controller",
+      "sacredArchetype": "The Warrior",
+      "wound": "Fear of unworthiness, fear of being insignificant",
+      "theme": "Performance = survival",
+      "limitingBeliefs": [
+        "If I slow down, I’ll fall behind",
+        "I am what I accomplish",
+        "Weakness is dangerous"
+      ],
+      "somaticZones": ["Solar Plexus", "Jaw", "Shoulders"],
+      "chakra": ["Solar Plexus"],
+      "lightGifts": ["Courage", "Leadership", "Integrity"],
+      "integrationPath": [
+        "Rest without guilt",
+        "Practice 'good enough'",
+        "Act from purpose, not pressure"
+      ]
+    },
+    {
+      "id": "intellectual",
+      "maskName": "The Intellectual / Observer",
+      "sacredArchetype": "The Sage",
+      "wound": "Fear of emotional overwhelm",
+      "theme": "Analysis = protection",
+      "limitingBeliefs": [
+        "Feeling makes me weak",
+        "If I stay objective, I stay safe",
+        "People are unpredictable"
+      ],
+      "somaticZones": ["Throat", "Head", "Brow"],
+      "chakra": ["Throat", "Third Eye"],
+      "lightGifts": ["Clarity", "Wisdom", "Insight"],
+      "integrationPath": [
+        "Drop into the body sensation",
+        "Express one emotion per day",
+        "Replace logic with experience"
+      ]
+    },
+    {
+      "id": "martyr",
+      "maskName": "The Martyr / Caretaker",
+      "sacredArchetype": "The Healer",
+      "wound": "Fear of neglect, fear of not being needed",
+      "theme": "I must carry others",
+      "limitingBeliefs": [
+        "If I stop helping, I’m unlovable",
+        "Others’ pain is my responsibility",
+        "I must be strong for everyone"
+      ],
+      "somaticZones": ["Pelvis", "Low Back", "Womb"],
+      "chakra": ["Sacral"],
+      "lightGifts": ["Empathy", "Nurture", "Compassion"],
+      "integrationPath": [
+        "Release responsibility",
+        "Practice receiving",
+        "Let love flow both ways"
+      ]
+    },
+    {
+      "id": "perfectionist",
+      "maskName": "The Perfectionist",
+      "sacredArchetype": "The Creator",
+      "wound": "Fear of shame, fear of being seen as flawed",
+      "theme": "Order = safety",
+      "limitingBeliefs": [
+        "Mistakes will expose me",
+        "If it’s not perfect, it’s worthless",
+        "I must control or everything falls apart"
+      ],
+      "somaticZones": ["Eyes", "Head", "Shoulders"],
+      "chakra": ["Crown"],
+      "lightGifts": ["Vision", "Beauty", "Excellence"],
+      "integrationPath": [
+        "Celebrate imperfection",
+        "Let things be unfinished",
+        "Practice ease over control"
+      ]
+    },
+    {
+      "id": "rebel",
+      "maskName": "The Rebel",
+      "sacredArchetype": "The Alchemist",
+      "wound": "Fear of confinement or domination",
+      "theme": "Freedom = survival",
+      "limitingBeliefs": [
+        "If I submit, I disappear",
+        "Rules suffocate me",
+        "Closeness is a trap"
+      ],
+      "somaticZones": ["Solar Plexus", "Legs"],
+      "chakra": ["Solar Plexus", "Root"],
+      "lightGifts": ["Transformation", "Fire", "Authenticity"],
+      "integrationPath": [
+        "Choose freedom with connection",
+        "Pause before reacting",
+        "Channel intensity into purpose"
+      ]
+    },
+    {
+      "id": "performer",
+      "maskName": "The Performer",
+      "sacredArchetype": "The Magician",
+      "wound": "Fear of rejection or humiliation",
+      "theme": "Expression = safety",
+      "limitingBeliefs": [
+        "If I entertain, they won’t reject me",
+        "Attention keeps me safe",
+        "Being real is risky"
+      ],
+      "somaticZones": ["Throat", "Face", "Diaphragm"],
+      "chakra": ["Throat"],
+      "lightGifts": ["Charisma", "Creativity", "Emotional expression"],
+      "integrationPath": [
+        "Share real feelings",
+        "Use creativity for truth",
+        "Show vulnerability on purpose"
+      ]
+    },
+    {
+      "id": "critic",
+      "maskName": "The Judge / Critic",
+      "sacredArchetype": "The Guardian",
+      "wound": "Fear of betrayal or disappointment",
+      "theme": "Vigilance = safety",
+      "limitingBeliefs": [
+        "If I don’t judge, things fall apart",
+        "I must stay ahead of disappointment",
+        "It’s risky to trust"
+      ],
+      "somaticZones": ["Jaw", "Shoulders"],
+      "chakra": ["Solar Plexus"],
+      "lightGifts": ["Discernment", "Truth", "Protection"],
+      "integrationPath": [
+        "Replace judgment with curiosity",
+        "Loosen perfectionism",
+        "Let yourself soften"
+      ]
+    },
+    {
+      "id": "niceone",
+      "maskName": "The Nice One",
+      "sacredArchetype": "The Peacemaker",
+      "wound": "Fear of conflict, fear of being a burden",
+      "theme": "Harmony = survival",
+      "limitingBeliefs": [
+        "My needs are inconvenient",
+        "Conflict destroys love",
+        "Better small than disruptive"
+      ],
+      "somaticZones": ["Throat", "Chest"],
+      "chakra": ["Heart", "Throat"],
+      "lightGifts": ["Gentleness", "Diplomacy", "Presence"],
+      "integrationPath": [
+        "Express needs slowly",
+        "Practice healthy conflict",
+        "Expand your presence"
+      ]
+    },
+    {
+      "id": "lonewolf",
+      "maskName": "The Lone Wolf",
+      "sacredArchetype": "The Hermit",
+      "wound": "Fear of disappointment or abandonment",
+      "theme": "Self-reliance = protection",
+      "limitingBeliefs": [
+        "People can’t be trusted",
+        "Depending on others is dangerous",
+        "Aloneness is safer than closeness"
+      ],
+      "somaticZones": ["Spine", "Back", "Legs"],
+      "chakra": ["Root"],
+      "lightGifts": ["Independence", "Self-trust", "Grounding"],
+      "integrationPath": [
+        "Let others in slowly",
+        "Practice interdependence",
+        "Soften defensiveness"
+      ]
+    },
+    {
+      "id": "seducer",
+      "maskName": "The Seducer / Charmer",
+      "sacredArchetype": "The Muse / Lover",
+      "wound": "Fear of rejection or dullness",
+      "theme": "Attraction = safety",
+      "limitingBeliefs": [
+        "If I’m captivating, I’m safe",
+        "If I’m ordinary, I’ll be ignored",
+        "Intimacy must be earned"
+      ],
+      "somaticZones": ["Sacrum", "Pelvis", "Lips"],
+      "chakra": ["Sacral"],
+      "lightGifts": ["Magnetism", "Seduction", "Inspiration"],
+      "integrationPath": [
+        "Reveal inner self",
+        "Choose intimacy over allure",
+        "Let connection be simple"
+      ]
+    },
+    {
+      "id": "shapeshifter",
+      "maskName": "The Shapeshifter / Diplomat",
+      "sacredArchetype": "The Mediator",
+      "wound": "Fear of instability or disapproval",
+      "theme": "Adaptability = safety",
+      "limitingBeliefs": [
+        "I must become who they need",
+        "Authenticity risks rejection",
+        "My identity is negotiable"
+      ],
+      "somaticZones": ["Throat", "Solar Plexus"],
+      "chakra": ["Throat", "Heart"],
+      "lightGifts": ["Flexibility", "Unity", "Attunement"],
+      "integrationPath": [
+        "Hold your shape in small ways",
+        "State preferences clearly",
+        "Practice consistency"
+      ]
+    },
+    {
+      "id": "savior",
+      "maskName": "The Savior / Healer",
+      "sacredArchetype": "The Mystic / Healer",
+      "wound": "Fear of uselessness, fear of not being enough",
+      "theme": "Over-responsibility",
+      "limitingBeliefs": [
+        "It’s my duty to fix others",
+        "I’m needed = I’m worthy",
+        "My pain doesn’t matter"
+      ],
+      "somaticZones": ["Heart", "Hands", "Womb"],
+      "chakra": ["Heart", "Sacral"],
+      "lightGifts": ["Spiritual depth", "Healing", "Compassion"],
+      "integrationPath": [
+        "Release responsibility",
+        "Let yourself receive",
+        "Heal without over-functioning"
+      ]
+    },
+    {
+      "id": "joker",
+      "maskName": "The Joker / Clown",
+      "sacredArchetype": "The Trickster / Magician",
+      "wound": "Fear of shame, fear of being wrong",
+      "theme": "Humor = shield",
+      "limitingBeliefs": [
+        "If I’m funny, I’m safe",
+        "Humor protects me from pain",
+        "Authenticity is risky"
+      ],
+      "somaticZones": ["Diaphragm", "Throat", "Face"],
+      "chakra": ["Throat"],
+      "lightGifts": ["Joy", "Levity", "Creative intelligence"],
+      "integrationPath": [
+        "Share deeper emotions",
+        "Use humor to heal, not hide",
+        "Ground your energy"
+      ]
+    }
+  ]
+}
